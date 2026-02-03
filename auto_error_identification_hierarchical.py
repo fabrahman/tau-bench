@@ -1,6 +1,6 @@
 """
 Hierarchical Error Analysis for Automated Error Identification
-Example command: python auto_error_identification.py   --model gpt-5.2   --platform openai   --results-path ./results/qwen3_8b_airline.json   --output-path analysis_outputs/test_hierarchical_1example.json   --hierarchical   --max-num-failed-results 10   --max-concurrency 1 --env airline
+Example command: python auto_error_identification.py   --model gpt-5.2   --platform openai   --results-path ./outputs/qwen3_8b_airline.json   --output-path analysis_outputs/test_hierarchical_1example.json   --hierarchical   --max-num-failed-results 10   --max-concurrency 1 --env airline
 """
 
 
